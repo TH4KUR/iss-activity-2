@@ -12,3 +12,4 @@ pairs = find_cube_pairs(1729)  # Removed incorrect comma at end
 print("Valid cube pairs for 1729:")  # Replaced 'printf' with 'print'
 for a, b in pairs:  # Fixed typo: 'pair' → 'pairs'
     print(f" → {a}³ + {b}³ = {a**3} + {b**3} = 1729")  # Fixed exponentiation (should be **3)
+  """Submit your response here:  https://forms.office.com/Pages/ResponsePage.aspx?id=vDsaA3zPK06W7IZ1VVQKHFzW4INMf2JMjyL9qPnlPbNUMFU2TjI1WjQyUlczSFNIOFBEWkxTQ0lFQS4u"""
